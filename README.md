@@ -1,6 +1,6 @@
 # Shopify-PreviewURL-chrome
 
-1.Download this file
+1.Download this.
 
 2.Open google chrome
 
