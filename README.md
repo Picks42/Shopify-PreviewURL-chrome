@@ -1,6 +1,6 @@
 # Shopify-PreviewURL-chrome
 
-1.Download this.
+1.Click on clone or download. Download ZIP and extract it.
 
 2.Open google chrome
 
