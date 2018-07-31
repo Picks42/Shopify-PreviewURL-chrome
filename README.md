@@ -4,7 +4,7 @@
 
 2.Open google chrome
 
-3. open this link chrome://extensions/
+3.open this link chrome://extensions/
 
 4.Click on load unpacked 
 
