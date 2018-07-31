@@ -9,3 +9,5 @@
 4.Click on load unpacked 
 
 5.Select downloaded folder. (chrome-shopify)
+
+After these steps, open your-store/admin/themes and after few seconds you will see 'Custom URL' link.
